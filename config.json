@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "username": "your username (has to be the streamer because only they can give vip)",
+    "token": "Get from https://twitchapps.com/tmi/",
+    "canVIP": ["userid (get user ID from username here https://www.streamweasels.com/tools/convert-twitch-username-to-user-id/)"]
+}
