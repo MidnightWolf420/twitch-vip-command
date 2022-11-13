@@ -1,7 +1,7 @@
 # twitch-vip-command
 <br>
 Usage: 
-1- Install Node.js from [here](https://nodejs.org/en/) <br>
+1- Install Node.js from [here]([here](https://nodejs.org/en/)) <br>
 2- Change The Data In Config.json <br>
 3- Open CMD In The Folder <br>
 4- Run npm i <br>
